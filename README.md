@@ -4,7 +4,7 @@
 ## Proyecto Final del Diplomado Internet de las Cosas 2023
 El internet de las cosas (IoT, por sus siglas en inglés) es un concepto que se refiere a la conexión de objetos físicos a la red mediante sensores, actuadores, etiquetas RFID, códigos QR, etc. Estos objetos pueden comunicarse entre sí y con otros dispositivos o sistemas, generando y compartiendo datos e información en tiempo real. El IoT tiene múltiples aplicaciones en diversos sectores, como la salud, la educación, la agricultura, la seguridad, el transporte, etc.
 
-#### Uno de los sectores que más se puede beneficiar del IoT es el de la gestión de inventarios. El inventario es el conjunto de bienes o productos que posee una empresa para su venta o consumo. El control de inventario es el proceso de registrar, clasificar, almacenar y distribuir estos bienes o productos, optimizando su uso y evitando su pérdida, deterioro o caducidad. El control de inventario es fundamental para el éxito de cualquier negocio, ya que influye en la satisfacción del cliente, la rentabilidad, la competitividad y la imagen de la empresa.
+**Uno de los sectores que más se puede beneficiar del IoT es el de la gestión de inventarios. El inventario es el conjunto de bienes o productos que posee una empresa para su venta o consumo. El control de inventario es el proceso de registrar, clasificar, almacenar y distribuir estos bienes o productos, optimizando su uso y evitando su pérdida, deterioro o caducidad. El control de inventario es fundamental para el éxito de cualquier negocio, ya que influye en la satisfacción del cliente, la rentabilidad, la competitividad y la imagen de la empresa.**
 
 ### El IoT puede mejorar el control de inventario de varias maneras, como las siguientes:
 
