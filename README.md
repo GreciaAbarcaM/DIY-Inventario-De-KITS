@@ -20,8 +20,3 @@ El internet de las cosas (IoT, por sus siglas en inglés) es un concepto que se 
 
 Mejora la experiencia y la fidelización del cliente, al ofrecerle productos personalizados, disponibles y entregados a tiempo. Un ejemplo de proyecto de control de inventario con el IoT es el que desarrolló la empresa IKEA1, líder mundial en muebles y artículos para el hogar. IKEA implementó un sistema basado en etiquetas RFID para gestionar sus más de 9.500 referencias de productos en sus 400 tiendas en 49 países. Este sistema permite a IKEA conocer el estado y la ubicación exacta de cada producto en todo momento, desde su fabricación hasta su venta. Así, IKEA puede optimizar sus procesos logísticos, reducir sus costos operativos, aumentar sus ventas y mejorar su servicio al cliente.
 
-#### Como puedes ver, el IoT es una tecnología que ofrece grandes ventajas para el control de inventario. Si quieres saber más sobre este tema o sobre cómo implementar un proyecto de este tipo en tu negocio, puedes consultar los siguientes recursos:
-
-~Internet, control e inventarios: un artículo que explica cómo el IoT mejora la gestión de inventarios en diferentes sectores.
-~Proyecto De Tesis Sistema De Control De Inventarios 2018: un documento que presenta un sistema web para el control de inventarios basado en normas contables.
-~Proyecto De Control De Inventario: un trabajo que propone un sistema web para el control de inventario con acceso remoto.
