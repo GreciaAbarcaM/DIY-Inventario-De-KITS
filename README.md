@@ -15,7 +15,7 @@ Mejorar la eficacia en la gestión de los Kits de componentes electrónicos para
 3.	Generar una interfaz amigable con el trabajador y el usuario para la disposición de los componentes de un Kit de IoT.
 
 # MATERIALES
-
+## HARDWARE
 - ESP32-CAM OV2640
 - MODULO PROGRAMADOR ADAPTADOR ESP32-CAM
 - RASPBERRY PI 4
@@ -32,9 +32,21 @@ Mejorar la eficacia en la gestión de los Kits de componentes electrónicos para
 - ANTENA SMA WIFI
 - HEADER HEMBRA
   
-## HARDWARE
 ## SOFTWARE
+- ESP32 FLASH DOWNLOAD TOOLS
+- TELEGRAM
+- IDEArduino
+- RASPBERRY OS
+  
 # MATERIAL DE REFERENCIA
+- [ VIDEO YOUTUBE MATERIALES Y FUNCIONAMIENTO ](https://youtu.be/N-n6ZHa4wSY)
+- [ Hacer que la ESP32-CAM se comunique a través de Telegram - Proyecto IOT ](https://www.youtube.com/watch?v=1005trA_wpI)
+- [ CAPTURA DE IMAGENES CON MOVIMIENTO Y ENVIO A LA TARJETA SD Y A TRAVES DE TELEGRAM ](https://www.youtube.com/watch?v=3rDHxqgLs4k)
+- [ TIMBRE CON ENVIO DE FOTOS Y NOTIFICACIONES POR TELEGRAM ](https://www.youtube.com/watch?v=uzmHtxQWk6o)
+- [  ]()
+  Para poder realizar este proyecto se necesitan los siguientes servicios:
+  [- ]()
 # SERVICIOS
+
 # RESULTADOS
 # CRÉDITOS
