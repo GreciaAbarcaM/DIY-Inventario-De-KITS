@@ -43,10 +43,23 @@ Mejorar la eficacia en la gestión de los Kits de componentes electrónicos para
 - [ Hacer que la ESP32-CAM se comunique a través de Telegram - Proyecto IOT ](https://www.youtube.com/watch?v=1005trA_wpI)
 - [ CAPTURA DE IMAGENES CON MOVIMIENTO Y ENVIO A LA TARJETA SD Y A TRAVES DE TELEGRAM ](https://www.youtube.com/watch?v=3rDHxqgLs4k)
 - [ TIMBRE CON ENVIO DE FOTOS Y NOTIFICACIONES POR TELEGRAM ](https://www.youtube.com/watch?v=uzmHtxQWk6o)
-- [  ]()
-  Para poder realizar este proyecto se necesitan los siguientes servicios:
-  [- ]()
-# SERVICIOS
+- [ CONECTANDO UN LCD A LA RASPBERRY PI ](https://www.youtube.com/watch?v=cVdSc8VYVBM)
+- [ CONFIGURANDO UN CHIP RFID RC522 PARA LA RASPBERRY PI ](https://www.youtube.com/watch?v=evRuZRxvPFI)
+- [ Sistema de asistencia RFID Raspberry Pi ](https://www.youtube.com/watch?v=T98ealydWZA)
+- [ COMO LEER UN RFID TAGS CON UN LECTOR DE RFID ](https://www.youtube.com/watch?v=pJLjFm4Ipro)
 
+# SERVICIOS
+ Para poder realizar este proyecto se necesitan los siguientes servicios:
+ - [_Telegram_](https://web.telegram.org/)
+ - [_IDE Arduino_](https://www.arduino.cc/en/software)
+ - [_ESP32 FLASH DOWNLOAD TOOLS_](https://www.espressif.com/en/support/download/other-tools)
+ - [_Instalación de Raspberry OS en Raspberry Pi 4_](https://edu.codigoiot.com/course/view.php?id=823)
+ 
 # RESULTADOS
+
+
 # CRÉDITOS
+Este proyecto ha sido desarrollado por:
+- LUIS ANTONIO NOPALTITLA VERDUZCO
+- GRECIA YAMILETH ABARCA MEDRANO
+- JUAN ALBERTO LOVERA SALINAS
