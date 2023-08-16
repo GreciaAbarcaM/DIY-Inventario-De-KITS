@@ -56,7 +56,24 @@ Mejorar la eficacia en la gestión de los Kits de componentes electrónicos para
  - [_Instalación de Raspberry OS en Raspberry Pi 4_](https://edu.codigoiot.com/course/view.php?id=823)
  
 # RESULTADOS
+Aqui se muestran los resultados del producto realizado:
+![WhatsApp Image 2023-08-15 at 5 35 58 PM](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/135075213/4a006cdb-3dc5-421f-b151-d21ed308ccbe)
 
+![WhatsApp Image 2023-08-15 at 5 35 58 PM (1)](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/135075213/5f4548d2-7f45-4c22-9a69-66766708fd30)
+
+![Imagen de WhatsApp 2023-08-15 a las 18 08 19](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/135075213/db7dd39c-c5db-4a17-a636-8169d3ca8e28)
+
+![Imagen de WhatsApp 2023-08-15 a las 18 08 46](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/135075213/f9f13ebf-5a12-4779-bd7c-ff74e44d6f53)
+
+![WhatsApp Image 2023-08-15 at 5 39 24 PM](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/135075213/dab95312-f5ff-4193-801d-23d035e80abb)
+
+![WhatsApp Image 2023-08-15 at 5 43 38 PM](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/135075213/ea249481-2dc6-494d-a60e-7c2a0ff9cb58)
+
+![WhatsApp Image 2023-08-15 at 5 43 40 PM](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/135075213/93f70b91-3dbc-4fc5-b21f-f12a9812f5f3)
+
+![WhatsApp Image 2023-08-15 at 5 43 40 PM (1)](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/135075213/656acc07-d854-4404-b862-4d49d11684aa)
+
+![WhatsApp Image 2023-08-15 at 5 43 40 PM (2)](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/135075213/1a8cbce9-ccd1-4506-8c38-0beb492d9555)
 
 # CRÉDITOS
 Este proyecto ha sido desarrollado por:
