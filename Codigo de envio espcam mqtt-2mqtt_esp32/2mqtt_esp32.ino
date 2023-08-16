@@ -1,5 +1,5 @@
 /*
- Basic ESP8266 MQTT example
+ Basic ESP32 MQTT example
  This sketch demonstrates the capabilities of the pubsub library in combination
  with the ESP8266 board/library.
  It connects to an MQTT server then:
@@ -11,11 +11,25 @@
  It will reconnect to the server if the connection is lost using a blocking
  reconnect function. See the 'mqtt_reconnect_nonblocking' example for how to
  achieve the same result without blocking the main loop.
- To install the ESP8266 board, (using Arduino 1.6.4+):
+ To install the ESP32 board, (using Arduino 1.6.4+):
   - Add the following 3rd party board manager under "File -> Preferences -> Additional Boards Manager URLs":
        http://arduino.esp8266.com/stable/package_esp8266com_index.json
-  - Open the "Tools -> Board -> Board Manager" and click install for the ESP8266"
+  - Open the "Tools -> Board -> Board Manager" and click install for the ESP32"
   - Select your ESP8266 in "Tools -> Board"
+
+  Ejemplo básico de MQTT para ESP32
+Este sketch demuestra las capacidades de la biblioteca "pubsub" en combinación con la placa y biblioteca ESP32. Se conecta a un servidor MQTT y luego realiza las siguientes acciones:
+  - Publica "hello world" en el tema "outTopic" cada dos segundos.
+  - Se suscribe al tema "inTopic" e imprime cualquier mensaje que reciba. Nota: asume que los datos recibidos son cadenas de texto, no binarios.
+  - Si el primer carácter del tema "inTopic" es un 1, enciende el LED del ESP. Si es otro valor, apaga el LED.
+  
+El programa se volverá a conectar al servidor si la conexión se pierde utilizando una función de reconexión bloqueante. Consulta el ejemplo 'mqtt_reconnect_nonblocking' para ver cómo lograr el mismo resultado sin bloquear el bucle principal.
+
+Para instalar la placa ESP32 (usando Arduino 1.6.4+):
+  - Agrega el siguiente enlace del administrador de placas de terceros en "Archivo -> Preferencias -> URLs adicionales del administrador de placas":
+       http://arduino.esp8266.com/stable/package_esp8266com_index.json
+  - Abre "Herramientas -> Placa -> Administrador de Placas" y haz clic en "Instalar" para ESP8266.
+  - Selecciona tu ESP8266 en "Herramientas -> Placa".
 */
 
 #include <WiFi.h>
