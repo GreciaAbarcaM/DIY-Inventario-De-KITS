@@ -66,9 +66,16 @@ Aqui se muestran los resultados del producto realizado:
 
 ![Imagen de WhatsApp 2023-08-15 a las 18 08 46](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/135075213/f9f13ebf-5a12-4779-bd7c-ff74e44d6f53)
 
-![WhatsApp Image 2023-08-15 at 5 39 24 PM](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/135075213/dab95312-f5ff-4193-801d-23d035e80abb)
+![image_50387457 (1)](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/137369318/ba50e8bf-1b22-4483-85d1-01f9023e7898)
 
-![WhatsApp Image 2023-08-15 at 5 43 38 PM](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/135075213/ea249481-2dc6-494d-a60e-7c2a0ff9cb58)
+
+
+https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/137369318/21d6d221-3a86-4c10-b515-85dccc6bbc0b
+
+
+![image_50387457 (1)](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/137369318/98314995-7c40-47e4-8669-8ad25edafb48)
+
+![IMG_7934](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/137369318/e6c92e3e-6602-415f-bb6c-a5fe4b810954)
 
 ![WhatsApp Image 2023-08-15 at 5 43 40 PM](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/135075213/93f70b91-3dbc-4fc5-b21f-f12a9812f5f3)
 
