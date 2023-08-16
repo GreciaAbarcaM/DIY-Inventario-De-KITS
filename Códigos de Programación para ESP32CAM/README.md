@@ -125,7 +125,9 @@ Ahora dirigete a telegram y busca tu bot con el nombre que le allas asignado:
 
 Ya solo queda que le asignes el comando /start para que te desplace el menu de opciones que tienes, las cuales seran tomar foto con el comando /photo, y prender o apagar el flas con el comando /flash.
 
-![image](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/135075213/f2e44dbb-8000-4418-945d-ad4246110af6)
+![fc295ecc-8d22-41e8-bc6b-5e09e01162e8](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/135075213/ff39b396-da67-49e7-8863-e39ce807494c)
+
+Felicidades, has programado tu ESP32 Y AHORA PUEDE INTERACCIONAR CON LA APLICACIÓN DE TELEGRAM.
 
 
 
