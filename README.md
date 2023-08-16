@@ -87,4 +87,3 @@ https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/137369318/21d6d22
 Este proyecto ha sido desarrollado por:
 - LUIS ANTONIO NOPALTITLA VERDUZCO
 - GRECIA YAMILETH ABARCA MEDRANO
-- JUAN ALBERTO LOVERA SALINAS
