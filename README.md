@@ -73,7 +73,7 @@ Aqui se muestran los resultados del producto realizado:
 https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/137369318/21d6d221-3a86-4c10-b515-85dccc6bbc0b
 
 
-![image_50387457 (1)](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/137369318/98314995-7c40-47e4-8669-8ad25edafb48)
+
 
 ![IMG_7934](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/137369318/e6c92e3e-6602-415f-bb6c-a5fe4b810954)
 
