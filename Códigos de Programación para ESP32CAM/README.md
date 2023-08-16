@@ -1,6 +1,5 @@
 # Pasos para programar la ESP32-CAM y hacer que se conecte a la aplicación de Telegram.
 
-## PASO 1
 Lo primero que debes hacer es descargar el programa con el que vas a programar el microcontrolaro, ese programa se llama "ESP32 FLASH DOWNLOAD TOOLS".
 
 Lo encontraras en la parte de herramientas de descarga Flash
