@@ -57,6 +57,7 @@ Mejorar la eficacia en la gestión de los Kits de componentes electrónicos para
  
 # RESULTADOS
 Aqui se muestran los resultados del producto realizado:
+
 ![WhatsApp Image 2023-08-15 at 5 35 58 PM](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/135075213/4a006cdb-3dc5-421f-b151-d21ed308ccbe)
 
 ![WhatsApp Image 2023-08-15 at 5 35 58 PM (1)](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/135075213/5f4548d2-7f45-4c22-9a69-66766708fd30)
