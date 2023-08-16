@@ -13,13 +13,15 @@
                                               
 https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/137369318/e3e5e06c-98cb-4009-b50c-881d6837d91d
 
-
 https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/137369318/f3853309-d147-450d-8383-ffc6733abd6b
 
 https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/137369318/4c69bf74-1b24-4f76-a2bd-d07e610c2fed
 
 
+##RESULTADOS##
+![WhatsApp Image 2023-08-16 at 4 04 12 AM](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/137369318/550477d6-71e3-4d45-a685-d4c3e5b4db1f)
+![WhatsApp Image 2023-08-16 at 4 04 13 AM](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/137369318/e4c9ffb1-2b8f-4ed5-b45d-9742d127080d)
 
-
+![WhatsApp Image 2023-08-16 at 4 04 12 AM](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/137369318/1923e8f3-e0b6-40a8-a40e-763fe44e82b4)
 
 
