@@ -103,11 +103,29 @@ Le mandaras un comando llamado /start, y luego otro /getid:
 
 Teniendo estos ID, procederas a energizar la ESP32.
 Ahora accede a tu menu de tu telefono en la configuración de WIFI, Y busca la señal "DOORBELLCAM".
+
+![image](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/135075213/44e2b6bc-d686-4dfa-a02c-5bdc196c1db4)
+
 Conectate a esa red, su contraseña sera "12345678", esto con el fin de evitar que más usuarios interactuen con esa red.
 Ahora accederas al siguiente URL
 - [ Página de enlazamiento de la ESP32-CAM con TELEGRAM ](192.168.4.1)
 Te debe de aparecer una pagina como esta:
 
-![image](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/135075213/44e2b6bc-d686-4dfa-a02c-5bdc196c1db4)
+![image](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/135075213/c3d05d60-0909-429a-91e2-b13b74ddb5a8)
+
+Ahí pondras tu Señal de WIFI, TU CONTRASEÑA Y LAS ID QUE OBTUVISTE ANTERIORMENTE DE TELEGRAM.
+LA PRIMER ID QUE PONDRAS ES LA QUE TE DIO EL BOTFATHER (la ID más larga) Y LUEGO LA ID DEL IDBOT (la ID más corta).
+![image](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/135075213/77e1d399-aaa7-47e5-b32d-5efd00291d2a)
+
+Hecho esto, selecciona la opcion "SUBMIT" para cargar la información y espera unos segundos, veras como la ESP32 SE CONECTA A LA SEÑAL WIFI, ya que veras parpadear el led unas 5 veces.
+
+Ahora dirigete a telegram y busca tu bot con el nombre que le allas asignado:
+
+![image](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/135075213/c73a7966-d486-4783-a8a2-c9c9f1f69e3d)
+
+Ya solo queda que le asignes el comando /start para que te desplace el menu de opciones que tienes, las cuales seran tomar foto con el comando /photo, y prender o apagar el flas con el comando /flash.
+
+![image](https://github.com/GreciaAbarcaM/DIY-Inventario-De-KITS/assets/135075213/f2e44dbb-8000-4418-945d-ad4246110af6)
+
 
 
